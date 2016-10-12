@@ -8,12 +8,20 @@
   line-height:normal;
 }
 .shape {
-  font-family:'MicrosoftYaHei', '微软雅黑 Regular', '微软雅黑';
+  font-family:'MicrosoftYaHei', '微软雅黑';
 }
 .box_1 {
 }
+.box_2 {
+}
 .image {
   color:#000000;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .heading_1 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -52,6 +60,8 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
 }
 .text_field {
   color:#000000;
