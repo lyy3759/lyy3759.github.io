@@ -596,7 +596,7 @@
   top:0px;
   width:93px;
   height:30px;
-  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   text-align:center;
@@ -1047,7 +1047,7 @@
   top:60px;
   width:93px;
   height:30px;
-  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   text-align:center;
@@ -1080,8 +1080,9 @@
 #u15510 {
   position:absolute;
   left:4px;
-  top:6px;
+  top:7px;
   width:89px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u15511_img {
@@ -1272,7 +1273,7 @@
   top:90px;
   width:93px;
   height:30px;
-  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   text-align:center;
@@ -1305,8 +1306,9 @@
 #u15528 {
   position:absolute;
   left:4px;
-  top:6px;
+  top:7px;
   width:89px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u15529_img {
@@ -1500,6 +1502,7 @@
   font-family:'MicrosoftYaHei', '微软雅黑';
   font-weight:400;
   font-style:normal;
+  color:#FF0000;
   text-align:center;
 }
 #u15544 {
@@ -1725,6 +1728,7 @@
   font-family:'MicrosoftYaHei', '微软雅黑';
   font-weight:400;
   font-style:normal;
+  color:#FF0000;
   text-align:center;
 }
 #u15562 {
