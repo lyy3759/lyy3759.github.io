@@ -492,12 +492,14 @@
   top:30px;
   width:112px;
   height:60px;
+  text-decoration:underline;
+  color:#0099CC;
   text-align:center;
 }
 #u22234 {
   position:absolute;
   left:2px;
-  top:22px;
+  top:21px;
   width:108px;
   word-wrap:break-word;
 }
@@ -585,8 +587,9 @@
 #u22242 {
   position:absolute;
   left:2px;
-  top:21px;
+  top:22px;
   width:139px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u22243_img {
