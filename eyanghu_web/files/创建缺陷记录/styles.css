@@ -1116,35 +1116,12 @@
 }
 #u20847 {
   position:absolute;
-  left:176px;
-  top:270px;
-  width:150px;
-  height:30px;
-}
-#u20847_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:150px;
-  height:30px;
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  text-decoration:none;
-  color:#AEAEAE;
-}
-#u20847_input:disabled {
-  color:grayText;
-}
-#u20848 {
-  position:absolute;
   left:336px;
   top:220px;
   width:62px;
   height:30px;
 }
-#u20848_input {
+#u20847_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -1159,7 +1136,7 @@
   color:#AEAEAE;
   text-align:center;
 }
-#u20849_div {
+#u20848_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -1177,7 +1154,7 @@
   font-style:normal;
   font-size:13px;
 }
-#u20849 {
+#u20848 {
   position:absolute;
   left:50px;
   top:376px;
@@ -1188,21 +1165,21 @@
   font-style:normal;
   font-size:13px;
 }
-#u20850 {
+#u20849 {
   position:absolute;
   left:0px;
   top:0px;
   width:66px;
   white-space:nowrap;
 }
-#u20851 {
+#u20850 {
   position:absolute;
   left:176px;
   top:370px;
   width:150px;
   height:30px;
 }
-#u20851_input {
+#u20850_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -1215,8 +1192,29 @@
   text-decoration:none;
   color:#AEAEAE;
 }
-#u20851_input:disabled {
+#u20850_input:disabled {
   color:grayText;
+}
+#u20851 {
+  position:absolute;
+  left:176px;
+  top:270px;
+  width:150px;
+  height:30px;
+}
+#u20851_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#AEAEAE;
+  text-align:left;
 }
 #u20853 {
   position:absolute;
