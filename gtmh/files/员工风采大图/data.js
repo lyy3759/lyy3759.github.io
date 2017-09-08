@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m],n,_(o,p,q,r,s,t,u,_(),v,_(w,x,y,z,A,_(B,C,D,E),F,null,G,z,H,z,I,J,K,null,L,M,N,O,P,Q,R,M),S,_(),T,_(),U,_(V,[_(W,X,Y,j,Z,ba,q,bb,bc,bb,bd,be,v,_(P,bf,w,bg,bh,_(bi,bj,bk,bl)),S,_(),bm,_(),bn,_(bo,bp))])),bq,_(),br,_(bs,_(bt,bu)));}; 
+var b="url",c="员工风采大图.html",d="generationDate",e=new Date(1504855764016.1),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="page",o="packageId",p="fa98b0bb40e94a7fa227aa7fc20b58d7",q="type",r="Axure:Page",s="name",t="员工风采大图",u="notes",v="style",w="baseStyle",x="627587b6038d43cca051c114ac41ad32",y="pageAlignment",z="near",A="fill",B="fillType",C="solid",D="color",E=0xFFFFFFFF,F="image",G="imageHorizontalAlignment",H="imageVerticalAlignment",I="imageRepeat",J="auto",K="favicon",L="sketchFactor",M="0",N="colorStyle",O="appliedColor",P="fontName",Q="应用字体",R="borderWidth",S="adaptiveStyles",T="interactionMap",U="diagram",V="objects",W="id",X="eed7ab4051a54449bd8b72d83223e916",Y="label",Z="friendlyType",ba="图片",bb="imageBox",bc="styleType",bd="visible",be=true,bf="'应用字体'",bg="75a91ee5b9d042cfa01b8d565fe289c0",bh="size",bi="width",bj=3988,bk="height",bl=2701,bm="imageOverrides",bn="images",bo="normal~",bp="images/员工风采大图/u354.png",bq="masters",br="objectPaths",bs="eed7ab4051a54449bd8b72d83223e916",bt="scriptId",bu="u354";
+return _creator();
+})());

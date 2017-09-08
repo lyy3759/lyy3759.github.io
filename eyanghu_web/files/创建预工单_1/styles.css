@@ -1,0 +1,359 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(242, 242, 242, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:380px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u23312_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:276px;
+  background:inherit;
+  background-color:rgba(228, 228, 228, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u23312 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:276px;
+}
+#u23313 {
+  position:absolute;
+  left:2px;
+  top:130px;
+  width:376px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u23314_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23314 {
+  position:absolute;
+  left:10px;
+  top:15px;
+  width:66px;
+  height:17px;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23315 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  white-space:nowrap;
+}
+#u23316 {
+  position:absolute;
+  left:136px;
+  top:10px;
+  width:120px;
+  height:30px;
+}
+#u23316_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:30px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u23316_input:disabled {
+  color:grayText;
+}
+#u23317_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23317 {
+  position:absolute;
+  left:10px;
+  top:59px;
+  width:66px;
+  height:17px;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23318 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  white-space:nowrap;
+}
+#u23319 {
+  position:absolute;
+  left:136px;
+  top:53px;
+  width:120px;
+  height:30px;
+}
+#u23319_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:30px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#949494;
+  text-align:left;
+}
+#u23320 {
+  position:absolute;
+  left:273px;
+  top:53px;
+  width:94px;
+  height:30px;
+}
+#u23320_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:94px;
+  height:30px;
+  background-color:transparent;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u23321_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23321 {
+  position:absolute;
+  left:10px;
+  top:102px;
+  width:66px;
+  height:17px;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23322 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  white-space:nowrap;
+}
+#u23323 {
+  position:absolute;
+  left:136px;
+  top:96px;
+  width:120px;
+  height:30px;
+}
+#u23323_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:30px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#949494;
+  text-align:left;
+}
+#u23324 {
+  position:absolute;
+  left:151px;
+  top:189px;
+  width:90px;
+  height:30px;
+}
+#u23324_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:90px;
+  height:30px;
+  background-color:transparent;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u23325 {
+  position:absolute;
+  left:270px;
+  top:105px;
+  width:100px;
+  height:18px;
+}
+#u23326 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  word-wrap:break-word;
+}
+#u23325_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u23327_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23327 {
+  position:absolute;
+  left:10px;
+  top:148px;
+  width:79px;
+  height:17px;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u23328 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
+#u23329 {
+  position:absolute;
+  left:136px;
+  top:142px;
+  width:120px;
+  height:30px;
+}
+#u23329_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#949494;
+  text-align:left;
+}
+#u23330 {
+  position:absolute;
+  left:273px;
+  top:142px;
+  width:94px;
+  height:30px;
+}
+#u23330_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:94px;
+  height:30px;
+  background-color:transparent;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
